@@ -1,0 +1,2 @@
+# mpi
+mpi toy program
