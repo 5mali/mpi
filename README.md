@@ -1,3 +1,3 @@
 # mpi
 mpi toy program
-with .gitignore
+includes .gitignote file
